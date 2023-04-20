@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="p" size="0.800000 0.578656" />
+    <ImageTarget name="Y" size="0.800000 0.800000" />
+    <ImageTarget name="M" size="0.800000 0.833735" />
+    <ImageTarget name="amigoo" size="0.800000 0.800000" />
+    <ImageTarget name="up" size="0.800000 0.800000" />
+  </Tracking>
+</QCARConfig>
